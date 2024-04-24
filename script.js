@@ -95,7 +95,7 @@ function parseMoonData(xml) {
   for (let i = 0; i < moonData.length; i++) {
     const t = moonData[i].getAttribute("t");
     const type = moonData[i].getAttribute("type");
-    formattedMoonData.push(`<pr t="${t}" type="${type}"/>`);
+    formattedMoonData.push(`"${t}" "${type}"`);
   }
   return formattedMoonData;
 }
