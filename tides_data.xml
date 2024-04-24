@@ -1,0 +1,840 @@
+<item>
+<date>2024/04/24</date>
+<day>Wed</day>
+<time>03:06 AM</time>
+<pred>0.23</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/04/24</date>
+<day>Wed</day>
+<time>08:55 AM</time>
+<pred>4.84</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/04/24</date>
+<day>Wed</day>
+<time>02:55 PM</time>
+<pred>0.26</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/04/24</date>
+<day>Wed</day>
+<time>09:20 PM</time>
+<pred>5.78</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/04/25</date>
+<day>Thu</day>
+<time>03:45 AM</time>
+<pred>0.25</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/04/25</date>
+<day>Thu</day>
+<time>09:30 AM</time>
+<pred>4.71</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/04/25</date>
+<day>Thu</day>
+<time>03:29 PM</time>
+<pred>0.26</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/04/25</date>
+<day>Thu</day>
+<time>09:51 PM</time>
+<pred>5.76</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/04/26</date>
+<day>Fri</day>
+<time>04:24 AM</time>
+<pred>0.32</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/04/26</date>
+<day>Fri</day>
+<time>10:04 AM</time>
+<pred>4.60</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/04/26</date>
+<day>Fri</day>
+<time>04:06 PM</time>
+<pred>0.28</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/04/26</date>
+<day>Fri</day>
+<time>10:24 PM</time>
+<pred>5.72</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/04/27</date>
+<day>Sat</day>
+<time>05:04 AM</time>
+<pred>0.42</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/04/27</date>
+<day>Sat</day>
+<time>10:42 AM</time>
+<pred>4.50</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/04/27</date>
+<day>Sat</day>
+<time>04:47 PM</time>
+<pred>0.33</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/04/27</date>
+<day>Sat</day>
+<time>11:03 PM</time>
+<pred>5.66</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/04/28</date>
+<day>Sun</day>
+<time>05:49 AM</time>
+<pred>0.54</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/04/28</date>
+<day>Sun</day>
+<time>11:25 AM</time>
+<pred>4.44</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/04/28</date>
+<day>Sun</day>
+<time>05:33 PM</time>
+<pred>0.41</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/04/28</date>
+<day>Sun</day>
+<time>11:51 PM</time>
+<pred>5.57</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/04/29</date>
+<day>Mon</day>
+<time>06:39 AM</time>
+<pred>0.62</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/04/29</date>
+<day>Mon</day>
+<time>12:17 PM</time>
+<pred>4.43</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/04/29</date>
+<day>Mon</day>
+<time>06:27 PM</time>
+<pred>0.51</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/04/30</date>
+<day>Tue</day>
+<time>12:49 AM</time>
+<pred>5.48</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/04/30</date>
+<day>Tue</day>
+<time>07:36 AM</time>
+<pred>0.64</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/04/30</date>
+<day>Tue</day>
+<time>01:20 PM</time>
+<pred>4.49</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/04/30</date>
+<day>Tue</day>
+<time>07:32 PM</time>
+<pred>0.57</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/01</date>
+<day>Wed</day>
+<time>01:55 AM</time>
+<pred>5.43</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/01</date>
+<day>Wed</day>
+<time>08:37 AM</time>
+<pred>0.53</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/01</date>
+<day>Wed</day>
+<time>02:28 PM</time>
+<pred>4.66</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/01</date>
+<day>Wed</day>
+<time>08:42 PM</time>
+<pred>0.54</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/02</date>
+<day>Thu</day>
+<time>03:03 AM</time>
+<pred>5.43</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/02</date>
+<day>Thu</day>
+<time>09:36 AM</time>
+<pred>0.31</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/02</date>
+<day>Thu</day>
+<time>03:36 PM</time>
+<pred>4.97</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/02</date>
+<day>Thu</day>
+<time>09:53 PM</time>
+<pred>0.40</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/03</date>
+<day>Fri</day>
+<time>04:09 AM</time>
+<pred>5.47</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/03</date>
+<day>Fri</day>
+<time>10:34 AM</time>
+<pred>0.02</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/03</date>
+<day>Fri</day>
+<time>04:43 PM</time>
+<pred>5.38</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/03</date>
+<day>Fri</day>
+<time>11:00 PM</time>
+<pred>0.17</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/04</date>
+<day>Sat</day>
+<time>05:12 AM</time>
+<pred>5.53</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/04</date>
+<day>Sat</day>
+<time>11:29 AM</time>
+<pred>-0.29</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/04</date>
+<day>Sat</day>
+<time>05:45 PM</time>
+<pred>5.84</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/05</date>
+<day>Sun</day>
+<time>12:04 AM</time>
+<pred>-0.09</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/05</date>
+<day>Sun</day>
+<time>06:11 AM</time>
+<pred>5.57</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/05</date>
+<day>Sun</day>
+<time>12:22 PM</time>
+<pred>-0.56</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/05</date>
+<day>Sun</day>
+<time>06:41 PM</time>
+<pred>6.27</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/06</date>
+<day>Mon</day>
+<time>01:03 AM</time>
+<pred>-0.32</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/06</date>
+<day>Mon</day>
+<time>07:05 AM</time>
+<pred>5.57</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/06</date>
+<day>Mon</day>
+<time>01:12 PM</time>
+<pred>-0.74</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/06</date>
+<day>Mon</day>
+<time>07:33 PM</time>
+<pred>6.58</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/07</date>
+<day>Tue</day>
+<time>01:59 AM</time>
+<pred>-0.47</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/07</date>
+<day>Tue</day>
+<time>07:56 AM</time>
+<pred>5.49</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/07</date>
+<day>Tue</day>
+<time>02:01 PM</time>
+<pred>-0.80</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/07</date>
+<day>Tue</day>
+<time>08:23 PM</time>
+<pred>6.73</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/08</date>
+<day>Wed</day>
+<time>02:52 AM</time>
+<pred>-0.50</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/08</date>
+<day>Wed</day>
+<time>08:47 AM</time>
+<pred>5.34</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/08</date>
+<day>Wed</day>
+<time>02:50 PM</time>
+<pred>-0.72</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/08</date>
+<day>Wed</day>
+<time>09:13 PM</time>
+<pred>6.69</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/09</date>
+<day>Thu</day>
+<time>03:43 AM</time>
+<pred>-0.41</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/09</date>
+<day>Thu</day>
+<time>09:38 AM</time>
+<pred>5.14</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/09</date>
+<day>Thu</day>
+<time>03:38 PM</time>
+<pred>-0.52</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/09</date>
+<day>Thu</day>
+<time>10:02 PM</time>
+<pred>6.49</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/10</date>
+<day>Fri</day>
+<time>04:33 AM</time>
+<pred>-0.20</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/10</date>
+<day>Fri</day>
+<time>10:29 AM</time>
+<pred>4.93</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/10</date>
+<day>Fri</day>
+<time>04:25 PM</time>
+<pred>-0.23</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/10</date>
+<day>Fri</day>
+<time>10:51 PM</time>
+<pred>6.18</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/11</date>
+<day>Sat</day>
+<time>05:22 AM</time>
+<pred>0.09</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/11</date>
+<day>Sat</day>
+<time>11:21 AM</time>
+<pred>4.72</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/11</date>
+<day>Sat</day>
+<time>05:13 PM</time>
+<pred>0.12</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/11</date>
+<day>Sat</day>
+<time>11:41 PM</time>
+<pred>5.83</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/12</date>
+<day>Sun</day>
+<time>06:12 AM</time>
+<pred>0.41</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/12</date>
+<day>Sun</day>
+<time>12:14 PM</time>
+<pred>4.54</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/12</date>
+<day>Sun</day>
+<time>06:03 PM</time>
+<pred>0.49</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/13</date>
+<day>Mon</day>
+<time>12:32 AM</time>
+<pred>5.47</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/13</date>
+<day>Mon</day>
+<time>07:04 AM</time>
+<pred>0.68</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/13</date>
+<day>Mon</day>
+<time>01:09 PM</time>
+<pred>4.43</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/13</date>
+<day>Mon</day>
+<time>06:58 PM</time>
+<pred>0.81</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/14</date>
+<day>Tue</day>
+<time>01:24 AM</time>
+<pred>5.17</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/14</date>
+<day>Tue</day>
+<time>07:58 AM</time>
+<pred>0.86</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/14</date>
+<day>Tue</day>
+<time>02:05 PM</time>
+<pred>4.40</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/14</date>
+<day>Tue</day>
+<time>07:57 PM</time>
+<pred>1.02</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/15</date>
+<day>Wed</day>
+<time>02:16 AM</time>
+<pred>4.95</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/15</date>
+<day>Wed</day>
+<time>08:50 AM</time>
+<pred>0.93</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/15</date>
+<day>Wed</day>
+<time>03:00 PM</time>
+<pred>4.46</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/15</date>
+<day>Wed</day>
+<time>08:57 PM</time>
+<pred>1.12</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/16</date>
+<day>Thu</day>
+<time>03:07 AM</time>
+<pred>4.81</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/16</date>
+<day>Thu</day>
+<time>09:39 AM</time>
+<pred>0.90</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/16</date>
+<day>Thu</day>
+<time>03:53 PM</time>
+<pred>4.60</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/16</date>
+<day>Thu</day>
+<time>09:55 PM</time>
+<pred>1.11</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/17</date>
+<day>Fri</day>
+<time>03:58 AM</time>
+<pred>4.73</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/17</date>
+<day>Fri</day>
+<time>10:24 AM</time>
+<pred>0.82</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/17</date>
+<day>Fri</day>
+<time>04:45 PM</time>
+<pred>4.82</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/17</date>
+<day>Fri</day>
+<time>10:50 PM</time>
+<pred>1.01</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/18</date>
+<day>Sat</day>
+<time>04:48 AM</time>
+<pred>4.69</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/18</date>
+<day>Sat</day>
+<time>11:07 AM</time>
+<pred>0.70</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/18</date>
+<day>Sat</day>
+<time>05:34 PM</time>
+<pred>5.07</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/18</date>
+<day>Sat</day>
+<time>11:42 PM</time>
+<pred>0.86</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/19</date>
+<day>Sun</day>
+<time>05:36 AM</time>
+<pred>4.68</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/19</date>
+<day>Sun</day>
+<time>11:47 AM</time>
+<pred>0.56</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/19</date>
+<day>Sun</day>
+<time>06:19 PM</time>
+<pred>5.33</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/20</date>
+<day>Mon</day>
+<time>12:30 AM</time>
+<pred>0.69</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/20</date>
+<day>Mon</day>
+<time>06:22 AM</time>
+<pred>4.67</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/20</date>
+<day>Mon</day>
+<time>12:26 PM</time>
+<pred>0.43</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/20</date>
+<day>Mon</day>
+<time>07:00 PM</time>
+<pred>5.56</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/21</date>
+<day>Tue</day>
+<time>01:16 AM</time>
+<pred>0.52</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/21</date>
+<day>Tue</day>
+<time>07:05 AM</time>
+<pred>4.66</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/21</date>
+<day>Tue</day>
+<time>01:05 PM</time>
+<pred>0.32</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/21</date>
+<day>Tue</day>
+<time>07:39 PM</time>
+<pred>5.74</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/22</date>
+<day>Wed</day>
+<time>01:59 AM</time>
+<pred>0.37</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/22</date>
+<day>Wed</day>
+<time>07:45 AM</time>
+<pred>4.63</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/22</date>
+<day>Wed</day>
+<time>01:43 PM</time>
+<pred>0.23</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/22</date>
+<day>Wed</day>
+<time>08:17 PM</time>
+<pred>5.85</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/23</date>
+<day>Thu</day>
+<time>02:42 AM</time>
+<pred>0.28</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/23</date>
+<day>Thu</day>
+<time>08:25 AM</time>
+<pred>4.58</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/23</date>
+<day>Thu</day>
+<time>02:23 PM</time>
+<pred>0.15</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/23</date>
+<day>Thu</day>
+<time>08:54 PM</time>
+<pred>5.90</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/24</date>
+<day>Fri</day>
+<time>03:24 AM</time>
+<pred>0.22</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/24</date>
+<day>Fri</day>
+<time>09:04 AM</time>
+<pred>4.53</pred>
+<highlow>H</highlow>
+</item>
+<item>
+<date>2024/05/24</date>
+<day>Fri</day>
+<time>03:04 PM</time>
+<pred>0.11</pred>
+<highlow>L</highlow>
+</item>
+<item>
+<date>2024/05/24</date>
+<day>Fri</day>
+<time>09:32 PM</time>
+<pred>5.91</pred>
+<highlow>H</highlow>
+</item>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tide, Sun, and Moon Data</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Tide, Sun, and Moon Data</h1>
+    <div class="date-nav">
+      <button onclick="getPreviousDayData()">Previous Day</button>
+      <span id="selected-date"></span>
+      <button onclick="getNextDayData()">Next Day</button>
+    </div>
+    
+    <!-- Moon Data -->
+    <div class="data-display">
+      <h2>Moon Data</h2>
+      <div class="card" id="moon-data">
+        <!-- Moon data will be displayed here -->
+      </div>
+    </div>
+
+    <!-- Tide Data -->
+    <div class="data-display">
+      <h2>Tide Data</h2>
+      <div class="card" id="tide-data">
+        <!-- Tide data will be displayed here -->
+      </div>
+    </div>
+
+    <!-- Sun Data -->
+    <div class="data-display">
+      <h2>Sun Data</h2>
+      <div class="card" id="sun-data">
+        <!-- Sun data will be displayed here -->
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
